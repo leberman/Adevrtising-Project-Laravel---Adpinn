@@ -1,5 +1,6 @@
 this project name is adpin.
 for buy/sale advertising 
+- Laravel 7.x ~ 9.x
 - PHP 8.0
 - MYSQL 5.7 - Postgresql
 - work with blade
