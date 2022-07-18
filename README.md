@@ -4,6 +4,8 @@ for buy/sale advertising
 - PHP 8.0
 - MYSQL 5.7 - Postgresql
 - Blade Base , Api Customized for React
+- Authentication with Passport
+- Cache query with File
 
 **Serve Project**
 
