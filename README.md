@@ -11,7 +11,7 @@ for buy/sale advertising
 
  run :
 ```
-php artisan serve
+php artisan migrate --seed && php artisan serve
 ```
 
 create personal access :
