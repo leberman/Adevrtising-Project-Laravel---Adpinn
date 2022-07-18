@@ -3,7 +3,7 @@ for buy/sale advertising
 - Laravel 7.x ~ 9.x
 - PHP 8.0
 - MYSQL 5.7 - Postgresql
-- work with blade
+- Blade Base , Api Customized for React
 
 **Serve Project**
 
