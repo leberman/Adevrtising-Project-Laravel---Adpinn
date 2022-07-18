@@ -1,4 +1,4 @@
-this project name is adpin.
+This project name is adpin.
 for buy/sale advertising 
 - Laravel 7.x ~ 9.x
 - PHP 8.0
